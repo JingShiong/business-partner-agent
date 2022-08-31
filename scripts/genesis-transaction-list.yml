@@ -15,3 +15,7 @@
   is_production: false
   is_write: false
   genesis_url: 'https://raw.githubusercontent.com/sovrin-foundation/sovrin/stable/sovrin/pool_transactions_builder_genesis'
+- id: IndicioTestNet
+  is_production: true
+  is_write: true
+  genesis_url:  'https://raw.githubusercontent.com/Indicio-tech/indicio-network/main/genesis_files/pool_transactions_testnet_genesis'
