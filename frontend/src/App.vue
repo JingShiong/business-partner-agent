@@ -184,7 +184,7 @@
             v-if="ux.navigation.about.enabled"
             bottom
             link
-            :to="{ name: 'About' }"
+            :to="{ name: 'Abouts' }"
           >
             <v-list-item-action>
               <v-icon>$vuetify.icons.about</v-icon>
